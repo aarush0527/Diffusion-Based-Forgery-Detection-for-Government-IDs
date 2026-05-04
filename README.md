@@ -128,8 +128,6 @@ The notebook is designed for Colab with a T4 or A100 GPU.
 2. Mount Google Drive and place `FantasyID.tgz` in your Drive root, or let the notebook download it directly from Zenodo
 3. Run all cells in order (Phases 1 through 6)
 
-Estimated runtime: ~3–4 hours on T4, ~1.5 hours on A100
-
 **Alternatively, run on Kaggle**
 
 The notebook also supports Kaggle with dataset paths pre-configured.
